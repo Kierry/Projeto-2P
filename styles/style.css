@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(22, 21, 21);
+}
+main{
+    background-color: rgb(33, 32, 32);
+    margin: 2em auto 0px;
+}
+main > section{
+    align-content: center;
+    border: 4em solid white;
+    border-radius: 100%;
+    margin: 10% auto 10% 10%;
+    padding: 2.5em;
+    background-color: rgb(136, 136, 136);
+    display: inline-block;
+    color: white;
+}
+img {
+    width:100px; 
+    height: 100px;
+}
+footer >p{
+    display: block;
+    margin: 6% auto 0px auto ;
+    background-color: aliceblue;
+    font-size: 5em;
+}
